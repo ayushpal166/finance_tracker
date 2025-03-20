@@ -34,7 +34,7 @@ Budgeit features user email authentication, which adds an extra layer of securit
 
 
 ## Download
-Download apk - https://drive.google.com/file/d/1ND6bVOeYheTLN19f6EMqhVEY8JlVIEhq/view?usp=share_link
+Download apk - https://drive.google.com/file/d/1asWvPUxa7oGVViB13E3okpcCB-O1sme7/view?usp=drive_link
 
 
 ## Setup
